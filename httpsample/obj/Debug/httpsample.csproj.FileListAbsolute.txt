@@ -1,0 +1,12 @@
+C:\Users\cgardner\source\repos\httpsample\httpsample\bin\Debug\httpsample.exe.config
+C:\Users\cgardner\source\repos\httpsample\httpsample\bin\Debug\httpsample.exe
+C:\Users\cgardner\source\repos\httpsample\httpsample\bin\Debug\httpsample.pdb
+C:\Users\cgardner\source\repos\httpsample\httpsample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cgardner\source\repos\httpsample\httpsample\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\cgardner\source\repos\httpsample\httpsample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cgardner\source\repos\httpsample\httpsample\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\cgardner\source\repos\httpsample\httpsample\obj\Debug\httpsample.csprojAssemblyReference.cache
+C:\Users\cgardner\source\repos\httpsample\httpsample\obj\Debug\httpsample.csproj.CoreCompileInputs.cache
+C:\Users\cgardner\source\repos\httpsample\httpsample\obj\Debug\httpsample.csproj.CopyComplete
+C:\Users\cgardner\source\repos\httpsample\httpsample\obj\Debug\httpsample.exe
+C:\Users\cgardner\source\repos\httpsample\httpsample\obj\Debug\httpsample.pdb
